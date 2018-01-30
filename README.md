@@ -44,7 +44,7 @@ Several popular Node.js frameworks are built on Express:
 * Locomotive: Powerful MVC web framework for Node.js from the maker of Passport.js
 * graphql-yoga: Fully-featured, yet simple and lightweight GraphQL server
 
-##pug
+## Pug
 
 Pug (earlier known as Jade) is a terse language for writing HTML templates.
 
